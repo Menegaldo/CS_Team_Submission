@@ -72,7 +72,7 @@ Com essas informações em mãos, vamos iniciar a analise em tempo de execução
 
 Como o código está rodando a medida que nós avançamos, teremos:
 
-![[Untitled 1-7.png]]
+<img width="708" height="276" alt="image" src="https://github.com/user-attachments/assets/350552f9-e463-4cd7-a7de-f7ca22935639" />
 
 Para ajudar a mapear o que está sendo comparado para printar a flag, vamos usar a seguinte string:
 
@@ -90,7 +90,7 @@ dc
 
 Teremos a seguinte resposta:
 
-<img width="708" height="276" alt="image" src="https://github.com/user-attachments/assets/350552f9-e463-4cd7-a7de-f7ca22935639" />
+<img width="705" height="136" alt="image" src="https://github.com/user-attachments/assets/644e63ed-e387-4871-b923-821e9e21b088" />
 
 Fazendo isso para todos os caracteres, teremos a sequência mapeada:
 
